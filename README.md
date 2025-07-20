@@ -27,18 +27,5 @@ Este proyecto permite generar una imagen de un **loro verde minimalista y amigab
 Puedes modificar este prompt directamente o ajustarlo con ayuda de otra IA para hacerlo más preciso.
 
 ```text
-A cute, minimalist green parrot perched in a natural setting. The parrot has a clean, simple aesthetic with smooth, rounded shapes and vibrant green feathers. Its expression is friendly and joyful, giving it a charming and approachable appearance. The word 'Altura' is subtly incorporated onto one of its wings or nearby leaves in a modern, clean font. The background features soft, blurred elements of nature—like leaves, branches, or sky—with light greens and earth tones to enhance the parrot's design. The overall style is contemporary digital art with soft lighting and a peaceful, serene mood.
-
-
-## 📌 Enlaces útiles
-
-- [Google Gemini API Docs (español)](https://ai.google.dev/gemini-api/docs?hl=es-419)
-- [Google Colab](https://colab.research.google.com/)
-- [Anaconda (descarga)](https://www.anaconda.com/)
-
----
-
-## 👤 Autor
-
-**Creado por Santiago Moreira Palma**  
-📫 [Conéctate en LinkedIn](https://www.linkedin.com/in/santiago-moreira-palma-42a986215)
+A cute, minimalist green parrot perched in a natural setting. The parrot has a clean, simple aesthetic with smooth, rounded shapes and vibrant green feathers. Its expression is friendly and joyful, giving it a charming and approachable appearance. The word 'Altura' is subtly incorporated onto one of its wings or nearby leaves in a modern, clean font. The background features soft, blurred elements of nature—like leaves, branches, or sky—with light greens and earth tones to enhance the parrot's design. The overall style is contemporary digital art with soft lighting and a peaceful, serene mood. 
+```
