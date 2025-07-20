@@ -15,7 +15,7 @@ Este proyecto permite generar una imagen de un **loro verde minimalista y amigab
 
 ## 🔑 Paso 1: Obtener tu API Key
 
-1. Ingresa a [Google Gemini API Docs](https://ai.google.dev/gemini-api/docs?hl=es-419)
+1. Ingresa a <a href="https://ai.google.dev/gemini-api/docs?hl=es-419" target="_blank">Google Gemini API Docs</a>
 2. Ve a tu proyecto en Google Cloud Console.
 3. Crea una clave de API desde el apartado **Credentials**.
 4. Guarda tu clave de forma segura. Puedes generar múltiples claves por proyecto.
@@ -32,13 +32,14 @@ A cute, minimalist green parrot perched in a natural setting. The parrot has a c
 
 ## 📌 Enlaces útiles
 
-- [Google Gemini API Docs (español)](https://ai.google.dev/gemini-api/docs?hl=es-419)
-- [Google Colab](https://colab.research.google.com/)
-- [Anaconda (descarga)](https://www.anaconda.com/)
+- <a href="https://ai.google.dev/gemini-api/docs?hl=es-419" target="_blank">Google Gemini API Docs (español)</a>
+- <a href="https://colab.research.google.com/" target="_blank">Google Colab</a>
+- <a href="https://www.anaconda.com/" target="_blank">Anaconda (descarga)</a>
 
 ---
 
 ## 👤 Autor
 
-**Creado por Santiago Moreira Palma**  
-📫 [Conéctate en LinkedIn](https://www.linkedin.com/in/santiago-moreira-palma-42a986215)
+**Santiago Moreira Palma**  
+📫 <a href="https://www.linkedin.com/in/santiago-moreira-palma-42a986215" target="_blank">Conéctate en LinkedIn</a>
+
