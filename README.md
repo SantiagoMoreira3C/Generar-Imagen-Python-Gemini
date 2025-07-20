@@ -109,6 +109,7 @@ A cute, minimalist green parrot perched in a natural setting. The parrot has a c
 
 ## 👤 Autor
 
+Si necesitas ayuda en ejecutarlo, no dudes en contactarme en la siguiente plataforma, también hago otros proyectos que incluyen IA 
 **Santiago Moreira Palma**  
 📫 <a href="https://www.linkedin.com/in/santiago-moreira-palma-42a986215" target="_blank">Conéctate en LinkedIn</a>
 
