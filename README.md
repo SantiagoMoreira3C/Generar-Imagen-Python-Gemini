@@ -22,7 +22,7 @@ Este proyecto permite generar una imagen de un **loro verde minimalista y amigab
 
 ---
 
-## Paso 2: Insertar el código de python para generar la imagen
+## Paso 2: Insertar el código de python para generar la imagen , recuerda pegar tu API KEY 
 ```python
 from google import genai
 from google.genai import types
